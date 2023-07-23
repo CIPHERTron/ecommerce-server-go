@@ -1,8 +1,3 @@
-module github.com/CIPHERTron/book-management-system
+module github.com/CIPHERTron/ecommerce-server-go
 
-go 1.16
-
-require (
-	github.com/gorilla/mux v1.8.0 // indirect
-	github.com/jinzhu/gorm v1.9.16 // indirect
-)
+go 1.20
