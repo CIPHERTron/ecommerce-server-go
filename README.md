@@ -1,1 +1,1 @@
-Book Management System
+E-commerce server built using Go
